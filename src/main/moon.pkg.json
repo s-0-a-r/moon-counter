@@ -1,0 +1,6 @@
+{
+  "is-main": true,
+  "import": [
+    "s-0-a-r/moon-counter/lib"
+  ]
+}
